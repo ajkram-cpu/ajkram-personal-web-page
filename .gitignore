@@ -1,0 +1,11 @@
+# Mac system file
+.DS_Store
+
+# Windows image cache
+Thumbs.db
+
+# Windows folder config
+desktop.ini
+
+# VS Code settings
+.vscode/
